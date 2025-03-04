@@ -6,4 +6,4 @@ Build Full Stack Canva Application Project with React.js, Node.js, Express.js an
 
 
 # **Preview:**
-[Watch Video]https://github.com/Dor12k/MERN-Canva-Project/blob/main/Preview.mp4
+[Watch Video](https://github.com/Dor12k/MERN-Canva-Project/blob/main/Preview.mp4)
