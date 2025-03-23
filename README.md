@@ -8,7 +8,7 @@ Full Stack Canva Application Project with React.js, Node.js, Express.js and Mong
 
 Full Stack Canva Application
 
-This project is a full-stack web application built with React.js, Node.js, Express.js, and MongoDB. 
+This project is a full-stack web application built with React.js, Vite, Node.js, Express.js, and MongoDB. 
 The application replicates key features of Canva, allowing users to register, create, and design custom canvases with various tools and features.
 
 Key Features:
