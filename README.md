@@ -44,6 +44,6 @@ https://github.com/user-attachments/assets/ee1c8640-8aea-4638-b895-7b7d4b2342db
 
 Better quality with YouTube version
 
-[![Watch the video](https://img.youtube.com/vi/2lwiI8ryYhg/0.jpg)](https://www.youtube.com/watch?v=2lwiI8ryYhg)
+[![Watch the video](https://github.com/user-attachments/assets/e30160c1-5859-4af2-b89a-e0fd46efe78c)](https://www.youtube.com/watch?v=2lwiI8ryYhg)
 
 
