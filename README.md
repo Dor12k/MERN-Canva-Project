@@ -37,8 +37,7 @@ This project is designed to give a full-stack experience from front-end design t
 
 
 ### **Preview:**
-
-https://github.com/user-attachments/assets/3ba532c9-f57a-4674-a1bf-45c40677aeca
+https://github.com/user-attachments/assets/ee1c8640-8aea-4638-b895-7b7d4b2342db
 
 
 -------------------------------------------------------------------------------------------------------------
