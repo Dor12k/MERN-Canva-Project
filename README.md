@@ -4,6 +4,17 @@
 Full Stack Canva Application Project with React.js, Node.js, Express.js and MongoDB (MERN)
 
 
+
+### **Preview:**
+
+Watch the video [here](https://www.youtube.com/watch?v=CNZLmfk8YL8)
+
+[![Watch the video](https://github.com/user-attachments/assets/e30160c1-5859-4af2-b89a-e0fd46efe78c)](https://www.youtube.com/watch?v=CNZLmfk8YL8)
+
+
+
+
+
 ### **Description** 
 
 Full Stack Canva Application
@@ -33,13 +44,4 @@ Technologies Used:
    * Middleware: Implemented for route protection
 
 This project is designed to give a full-stack experience from front-end design to back-end development and database management.
-
-
-
-### **Preview:**
-
-Watch the video [here](https://www.youtube.com/watch?v=CNZLmfk8YL8)
-
-[![Watch the video](https://github.com/user-attachments/assets/e30160c1-5859-4af2-b89a-e0fd46efe78c)](https://www.youtube.com/watch?v=CNZLmfk8YL8)
-
 
