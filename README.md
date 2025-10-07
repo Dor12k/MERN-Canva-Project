@@ -7,7 +7,9 @@ Full Stack Canva Application Project with React.js, Node.js, Express.js and Mong
 
 ### **Preview:**
 
-## Watch the video [here](https://www.youtube.com/watch?v=CNZLmfk8YL8)
+# <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [https://youtu.be/1vHhDjWunTw](https://www.youtube.com/watch?v=CNZLmfk8YL8)
+
+
 
 [![Watch the video](https://github.com/user-attachments/assets/e30160c1-5859-4af2-b89a-e0fd46efe78c)](https://www.youtube.com/watch?v=CNZLmfk8YL8)
 
